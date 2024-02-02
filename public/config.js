@@ -2,12 +2,12 @@
 window.Config = {
 
   // 显示标题
-  SiteName: '云生站点监测',
+  SiteName: '黎酒个人网站站点监测',
 
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only
   ApiKeys: [
-    'ur1078385-b9802a0868414b8a975d5038',
+    'UR2452364-88EEC3A85CD2FB12CE68CC',
   ],
 
     // 日志天数
@@ -22,15 +22,15 @@ window.Config = {
   Navi: [
     {
       text: '主页',
-      url: 'https://tjys.tk'
+      url: 'qianxia47.top'
     },
     {
       text: '博客',
-      url: 'https://blog.qikaile.tk'
+      url: 'qianxia47.top'
     },
     {
       text: 'GitHub',
-      url: 'https://github.com/qikaile/uptime-status'
+      url: 'https://github.com/qianxia47/uptime-status'
     },
   ],
 };
