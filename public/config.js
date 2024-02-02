@@ -2,7 +2,7 @@
 window.Config = {
 
   // 显示标题
-  SiteName: '黎酒个人网站站点监测',
+  SiteName: '黎酒站点监测',
 
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only
